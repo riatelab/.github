@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-### R packages
+## R packages
 
 <table>
   <tr>
