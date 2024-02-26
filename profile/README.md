@@ -87,9 +87,9 @@ Spatial analysis and mapping software packages from the [Center for Spatial Anal
     <td><img src="https://www.r-pkg.org/badges/version-ago/fisheye"/></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/riatelab/fisheye">fisheye</a></td>
+    <td><a href="https://github.com/riatelab/mapinsetr">mapinsetr</a></td>
     <td>Create map inset</td>
-    <td><img src="https://img.shields.io/github/stars/riatelab/fisheye?logo=none"/></td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/mapinsetr?logo=none"/></td>
     <td><img src="https://www.r-pkg.org/badges/version-ago/mapinsetr"/></td>
   </tr>
     <tr>
