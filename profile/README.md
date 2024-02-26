@@ -1,26 +1,36 @@
 # riatelab
 
-Spatial analysis and mapping software packages from the [Center for Spatial Analysis and Geovisualization RIATE](https://riate.cnrs.fr/).
+Spatial analysis and mapping software packages from the [Center for Spatial Analysis and Geovisualization - RIATE](https://riate.cnrs.fr/).
 
 ### Apps
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riatelab&repo=magrit)](https://github.com/riatelab/magrit)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riatelab&repo=regioviz)](https://github.com/riatelab/regioviz)
+|                                                  |                                               |                                                                      |                                                                           |
+|--------------------------------------------------|-----------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------|
+| [Magrit](https://github.com/riatelab/magrit)     | Online thematic cartography                   | ![](https://img.shields.io/github/stars/riatelab/magrit?logo=none)   | [magrit.cnrs.fr](https://magrit.cnrs.fr){.uri}                            |
+| [regioviz](https://github.com/riatelab/regioviz) | Statistical and visual exploration of regions | ![](https://img.shields.io/github/stars/riatelab/regioviz?logo=none) | [riatelab.github.io/regioviz](https://riatelab.github.io/regioviz/){.uri} |
 
 ### R packages
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riatelab&repo=mapsf)](https://github.com/riatelab/mapsf)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riatelab&repo=osrm)](https://github.com/riatelab/osrm)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riatelab&repo=maptiles)](https://github.com/riatelab/maptiles)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riatelab&repo=maplegend)](https://github.com/riatelab/maplegend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riatelab&repo=mapiso)](https://github.com/riatelab/mapiso)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riatelab&repo=potential)](https://github.com/riatelab/potential)
 
+|                                                    |                                                                |                                                                       |                                                                                                                      |                                                                             |
+|----------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| [mapsf](https://github.com/riatelab/mapsf)         | Thematic cartography                                           | ![](https://img.shields.io/github/stars/riatelab/mapsf?logo=none)     | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/mapsf){alt="CRAN_Status_Badge"}](#0)                  | [riatelab.github.io/mapsf](https://riatelab.github.io/mapsf){.uri}          |
+| [osrm](https://github.com/riatelab/osrm)           | Interface for the OpenStreetMap-based routing service OSRM     | ![](https://img.shields.io/github/stars/riatelab/osrm?logo=none)      | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/osrm){alt="CRAN_Status_Badge"}](#0)                   |                                                                             |
+| [maptiles](https://github.com/riatelab/maptiles)   | Download, compose and display map tiles                        | ![](https://img.shields.io/github/stars/riatelab/maptiles?logo=none)  | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/maptiles){alt="CRAN_Status_Badge"}](#0)               |                                                                             |
+| [potential](https://github.com/riatelab/potential) | Compute the potential model                                    | ![](https://img.shields.io/github/stars/riatelab/potential?logo=none) | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/potential){alt="CRAN_Status_Badge"}](#0)              | [riatelab.github.io/potential](https://riatelab.github.io/potential/){.uri} |
+| [linemap](https://github.com/riatelab/linemap)     | Maps made of (ridge) lines                                     | ![](https://img.shields.io/github/stars/riatelab/linemap?logo=none)   | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/linemap)](https://cran.r-project.org/package=linemap) |                                                                             |
+| [tanaka](https://github.com/riatelab/tanaka)       | Shaded contour lines (Tanaka) maps                             | ![](https://img.shields.io/github/stars/riatelab/tanaka?logo=none)    | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/tanaka){alt="CRAN_Status_Badge"}](#0)                 |                                                                             |
+| [mapiso](https://github.com/riatelab/mapiso)       | Transformation of regularly spaced grids into contour polygons | ![](https://img.shields.io/github/stars/riatelab/mapiso?logo=none)    | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/mapiso){alt="CRAN_Status_Badge"}](#0)                 |                                                                             |
+| [maplegend](https://github.com/riatelab/maplegend) | Legends for maps and other graphics.                           | ![](https://img.shields.io/github/stars/riatelab/maplegend?logo=none) | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/maplegend){alt="CRAN_Status_Badge"}](#0)              |                                                                             |
+| [MTA](https://github.com/riatelab/MTA)             | Multiscalar Territorial Analysis                               | ![](https://img.shields.io/github/stars/riatelab/MTA?logo=none)       | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/MTA){alt="CRAN_Status_Badge"}](#0)                    |                                                                             |
+| [fisheye](https://github.com/riatelab/fisheye)     | Transform base maps using log-azimuthal projection             | ![](https://img.shields.io/github/stars/riatelab/fisheye?logo=none)   | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/fisheye){alt="CRAN_Status_Badge"}](#0)                |                                                                             |
+| [mapinsetr](https://github.com/riatelab/mapinsetr) | Create map inset                                               | ![](https://img.shields.io/github/stars/riatelab/mapinsetr?logo=none) |                                                                                                                      |                                                                             |
 
+### JavaScript libraries
 
-## JavaScript libraries
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riatelab&repo=dicopal.js)](https://github.com/riatelab/dicopal.js)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riatelab&repo=go-cart-wasm)](https://github.com/riatelab/go-cart-wasm)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riatelab&repo=statsbreaks)](https://github.com/riatelab/statsbreaks)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riatelab&repo=linearcorrelation)](https://github.com/riatelab/linearcorrelation)
+|                                                          |                                                       |                                                                          |                                                                                                               |
+|----------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| [dicopla.js](https://github.com/riatelab/dicopal.js)     | Discrete color palettes (hundreds of them!)           | ![](https://img.shields.io/github/stars/riatelab/dicopal.js?logo=none)   | [npmjs.com/package/dicopal](https://www.npmjs.com/package/dicopal){.uri}                                      |
+| [statsbreaks](https://github.com/riatelab/statsbreaks)   | Group the values of a statistical series into classes | ![](https://img.shields.io/github/stars/riatelab/statsbreaks?logo=none)  | [observablehq.com/\@neocartocnrs/hello-statsbreaks](https://observablehq.com/@neocartocnrs/hello-statsbreaks) |
+| [go-cart-wasm](https://github.com/riatelab/go-cart-wasm) | Flow-based cartograms for the Web                     | ![](https://img.shields.io/github/stars/riatelab/go-cart-wasm?logo=none) | [npmjs.com/package/go-cart-wasm](https://www.npmjs.com/package/go-cart-wasm)                                  |
 
-
+### 
