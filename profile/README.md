@@ -1,9 +1,4 @@
-# riatelab
-
-Spatial analysis and mapping software packages from the [Center for Spatial Analysis and Geovisualization - RIATE](https://riate.cnrs.fr/).
-
-### Apps
-
+## Apps
 
 <table>
   <tr>
@@ -19,9 +14,6 @@ Spatial analysis and mapping software packages from the [Center for Spatial Anal
     <td><a href="https://riatelab.github.io/regioviz/">riatelab.github.io/regioviz</a></td>
   </tr>
 </table>
-
-
-
 
 ### R packages
 
@@ -101,10 +93,7 @@ Spatial analysis and mapping software packages from the [Center for Spatial Anal
 
 </table>
 
-
-
-
-### JavaScript libraries
+## JavaScript libraries
 
 <table>
   <tr>
