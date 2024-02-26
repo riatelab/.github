@@ -5,14 +5,14 @@ Spatial analysis and mapping software packages from the [Center for Spatial Anal
 ### Apps
 
 |                                                  |                                               |                                                                      |                                                                     |
-|--------------------------------------------------|-----------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------|
+|-----------------|-----------------|--------------------|--------------------|
 | [Magrit](https://github.com/riatelab/magrit)     | Online thematic cartography                   | ![](https://img.shields.io/github/stars/riatelab/magrit?logo=none)   | [magrit.cnrs.fr](https://magrit.cnrs.fr)                            |
 | [regioviz](https://github.com/riatelab/regioviz) | Statistical and visual exploration of regions | ![](https://img.shields.io/github/stars/riatelab/regioviz?logo=none) | [riatelab.github.io/regioviz](https://riatelab.github.io/regioviz/) |
 
 ### R packages
 
 |                                                    |                                                                |                                                                       |                                                                                                                      |                                                                       |
-|----------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+|-------------|--------------|--------------|------------------|--------------|
 | [mapsf](https://github.com/riatelab/mapsf)         | Thematic cartography                                           | ![](https://img.shields.io/github/stars/riatelab/mapsf?logo=none)     | ![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/mapsf)                                                 | [riatelab.github.io/mapsf](https://riatelab.github.io/mapsf)          |
 | [osrm](https://github.com/riatelab/osrm)           | Interface for the OpenStreetMap-based routing service OSRM     | ![](https://img.shields.io/github/stars/riatelab/osrm?logo=none)      | ![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/osrm)                                                  |                                                                       |
 | [maptiles](https://github.com/riatelab/maptiles)   | Download, compose and display map tiles                        | ![](https://img.shields.io/github/stars/riatelab/maptiles?logo=none)  | ![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/maptiles)                                              |                                                                       |
@@ -28,7 +28,7 @@ Spatial analysis and mapping software packages from the [Center for Spatial Anal
 ### JavaScript libraries
 
 |                                                          |                                                       |                                                                          |                                                                                                               |
-|----------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+|---------------|---------------|-----------------|------------------------|
 | [dicopla.js](https://github.com/riatelab/dicopal.js)     | Discrete color palettes (hundreds of them!)           | ![](https://img.shields.io/github/stars/riatelab/dicopal.js?logo=none)   | [npmjs.com/package/dicopal](https://www.npmjs.com/package/dicopal)                                            |
 | [statsbreaks](https://github.com/riatelab/statsbreaks)   | Group the values of a statistical series into classes | ![](https://img.shields.io/github/stars/riatelab/statsbreaks?logo=none)  | [observablehq.com/\@neocartocnrs/hello-statsbreaks](https://observablehq.com/@neocartocnrs/hello-statsbreaks) |
 | [go-cart-wasm](https://github.com/riatelab/go-cart-wasm) | Flow-based cartograms for the Web                     | ![](https://img.shields.io/github/stars/riatelab/go-cart-wasm?logo=none) | [npmjs.com/package/go-cart-wasm](https://www.npmjs.com/package/go-cart-wasm)                                  |
