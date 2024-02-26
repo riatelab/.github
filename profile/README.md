@@ -7,16 +7,16 @@ Spatial analysis and mapping software packages from the [Center for Spatial Anal
 
 <table>
   <tr>
-    <td>[Magrit](https://github.com/riatelab/magrit)</td>
+    <td><a href="https://github.com/riatelab/magrit">Magrit</a></td>
     <td>Online thematic cartography</td>
-    <td>![](https://img.shields.io/github/stars/riatelab/magrit?logo=none)</td>
-    <td>[magrit.cnrs.fr](https://magrit.cnrs.fr)</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/magrit?logo=none"/></td>
+    <td><a href="https://magrit.cnrs.fr">magrit.cnrs.fr</a></td>
   </tr>
   <tr>
-    <td>[regioviz](https://github.com/riatelab/regioviz)</td>
+    <td><a href="https://github.com/riatelab/regioviz">regioviz</a></td>
     <td>Statistical and visual exploration of regions</td>
-    <td>![](https://img.shields.io/github/stars/riatelab/regioviz?logo=none)</td>
-    <td>[riatelab.github.io/regioviz](https://riatelab.github.io/regioviz/)</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/regioviz?logo=none"/></td>
+    <td><a href="https://riatelab.github.io/regioviz/">riatelab.github.io/regioviz</a></td>
   </tr>
 </table>
 
@@ -25,26 +25,103 @@ Spatial analysis and mapping software packages from the [Center for Spatial Anal
 
 ### R packages
 
-|                                                    |                                                                |                                                                       |                                                                                                                      |                                                                       |
-|-------------|--------------|--------------|------------------|--------------|
-| [mapsf](https://github.com/riatelab/mapsf)         | Thematic cartography                                           | ![](https://img.shields.io/github/stars/riatelab/mapsf?logo=none)     | ![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/mapsf)                                                 | [riatelab.github.io/mapsf](https://riatelab.github.io/mapsf)          |
-| [osrm](https://github.com/riatelab/osrm)           | Interface for the OpenStreetMap-based routing service OSRM     | ![](https://img.shields.io/github/stars/riatelab/osrm?logo=none)      | ![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/osrm)                                                  |                                                                       |
-| [maptiles](https://github.com/riatelab/maptiles)   | Download, compose and display map tiles                        | ![](https://img.shields.io/github/stars/riatelab/maptiles?logo=none)  | ![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/maptiles)                                              |                                                                       |
-| [potential](https://github.com/riatelab/potential) | Compute the potential model                                    | ![](https://img.shields.io/github/stars/riatelab/potential?logo=none) | ![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/potential)                                             | [riatelab.github.io/potential](https://riatelab.github.io/potential/) |
-| [linemap](https://github.com/riatelab/linemap)     | Maps made of (ridge) lines                                     | ![](https://img.shields.io/github/stars/riatelab/linemap?logo=none)   | [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/linemap)](https://cran.r-project.org/package=linemap) |                                                                       |
-| [tanaka](https://github.com/riatelab/tanaka)       | Shaded contour lines (Tanaka) maps                             | ![](https://img.shields.io/github/stars/riatelab/tanaka?logo=none)    | ![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/tanaka)                                                |                                                                       |
-| [mapiso](https://github.com/riatelab/mapiso)       | Transformation of regularly spaced grids into contour polygons | ![](https://img.shields.io/github/stars/riatelab/mapiso?logo=none)    | ![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/mapiso)                                                |                                                                       |
-| [maplegend](https://github.com/riatelab/maplegend) | Legends for maps and other graphics.                           | ![](https://img.shields.io/github/stars/riatelab/maplegend?logo=none) | ![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/maplegend)                                             |                                                                       |
-| [MTA](https://github.com/riatelab/MTA)             | Multiscalar Territorial Analysis                               | ![](https://img.shields.io/github/stars/riatelab/MTA?logo=none)       | ![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/MTA)                                                   |                                                                       |
-| [fisheye](https://github.com/riatelab/fisheye)     | Transform base maps using log-azimuthal projection             | ![](https://img.shields.io/github/stars/riatelab/fisheye?logo=none)   | ![CRAN_Status_Badge](https://www.r-pkg.org/badges/version-ago/fisheye)                                               |                                                                       |
-| [mapinsetr](https://github.com/riatelab/mapinsetr) | Create map inset                                               | ![](https://img.shields.io/github/stars/riatelab/mapinsetr?logo=none) |                                                                                                                      |                                                                       |
+<table>
+  <tr>
+    <td><a href="https://github.com/riatelab/mapsf">mapsf</a></td>
+    <td>Thematic cartography</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/mapsf?logo=none"/></td>
+    <td><img src="https://www.r-pkg.org/badges/version-ago/mapsf"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riatelab/osrm">osrm</a></td>
+    <td>Interface for the OpenStreetMap-based routing service OSRM</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/osrm?logo=none"/></td>
+    <td><img src="https://www.r-pkg.org/badges/version-ago/osrm"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riatelab/maptiles">maptiles</a></td>
+    <td>Download, compose and display map tiles</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/maptiles?logo=none"/></td>
+    <td><img src="https://www.r-pkg.org/badges/version-ago/maptiles"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riatelab/potential">potential</a></td>
+    <td>Compute the potential model</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/potential?logo=none"/></td>
+    <td><img src="https://www.r-pkg.org/badges/version-ago/potential"/></td>
+  </tr>  
+  <tr>
+    <td><a href="https://github.com/riatelab/linemap">linemap</a></td>
+    <td>Maps made of (ridge) lines</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/linemap?logo=none"/></td>
+    <td><img src="https://www.r-pkg.org/badges/version-ago/linemap"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riatelab/tanaka">tanaka</a></td>
+    <td>Shaded contour lines (Tanaka) maps</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/tanaka?logo=none"/></td>
+    <td><img src="https://www.r-pkg.org/badges/version-ago/tanaka"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riatelab/mapiso">mapiso</a></td>
+    <td>Transformation of regularly spaced grids into contour polygons</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/mapiso?logo=none"/></td>
+    <td><img src="https://www.r-pkg.org/badges/version-ago/mapiso"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riatelab/maplegend">maplegend</a></td>
+    <td>Legends for maps and other graphics</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/maplegend?logo=none"/></td>
+    <td><img src="https://www.r-pkg.org/badges/version-ago/maplegend"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riatelab/MTA">MTA</a></td>
+    <td>Multiscalar Territorial Analysis</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/MTA?logo=none"/></td>
+    <td><img src="https://www.r-pkg.org/badges/version-ago/MTA"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riatelab/fisheye">fisheye</a></td>
+    <td>Transform base maps using log-azimuthal projection</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/fisheye?logo=none"/></td>
+    <td><img src="https://www.r-pkg.org/badges/version-ago/fisheye"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riatelab/fisheye">fisheye</a></td>
+    <td>Create map inset</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/fisheye?logo=none"/></td>
+    <td><img src="https://www.r-pkg.org/badges/version-ago/mapinsetr"/></td>
+  </tr>
+    <tr>
+    <td><a href="https://github.com/riatelab/flows">flows</a></td>
+    <td>Flow selection and analysis</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/flows?logo=none"/></td>
+    <td><img src="https://www.r-pkg.org/badges/version/flows"/></td>
+  </tr>
+
+</table>
+
+
+
 
 ### JavaScript libraries
 
-|                                                          |                                                       |                                                                          |                                                                                                               |
-|---------------|---------------|-----------------|------------------------|
-| [dicopla.js](https://github.com/riatelab/dicopal.js)     | Discrete color palettes (hundreds of them!)           | ![](https://img.shields.io/github/stars/riatelab/dicopal.js?logo=none)   | [npmjs.com/package/dicopal](https://www.npmjs.com/package/dicopal)                                            |
-| [statsbreaks](https://github.com/riatelab/statsbreaks)   | Group the values of a statistical series into classes | ![](https://img.shields.io/github/stars/riatelab/statsbreaks?logo=none)  | [observablehq.com/\@neocartocnrs/hello-statsbreaks](https://observablehq.com/@neocartocnrs/hello-statsbreaks) |
-| [go-cart-wasm](https://github.com/riatelab/go-cart-wasm) | Flow-based cartograms for the Web                     | ![](https://img.shields.io/github/stars/riatelab/go-cart-wasm?logo=none) | [npmjs.com/package/go-cart-wasm](https://www.npmjs.com/package/go-cart-wasm)                                  |
+<table>
+  <tr>
+    <td><a href="https://github.com/riatelab/dicopal.js">dicopal.js</a></td>
+    <td>Discrete color palettes (hundreds of them!)</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/dicopal.js?logo=none"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riatelab/statsbreaks">statsbreaks</a></td>
+    <td>Group the values of a statistical series into classes</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/statsbreaks?logo=none"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riatelab/go-cart-wasm">go-cart-wasm</a></td>
+    <td>Flow-based cartograms for the Web</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/go-cart-wasm?logo=none"/></td>
+  </tr>
+</table>
 
-### 
+
