@@ -4,10 +4,24 @@ Spatial analysis and mapping software packages from the [Center for Spatial Anal
 
 ### Apps
 
-|                                                  |                                               |                                                                      |                                                                     |
-|-----------------|-----------------|--------------------|--------------------|
-| [Magrit](https://github.com/riatelab/magrit)     | Online thematic cartography                   | ![](https://img.shields.io/github/stars/riatelab/magrit?logo=none)   | [magrit.cnrs.fr](https://magrit.cnrs.fr)                            |
-| [regioviz](https://github.com/riatelab/regioviz) | Statistical and visual exploration of regions | ![](https://img.shields.io/github/stars/riatelab/regioviz?logo=none) | [riatelab.github.io/regioviz](https://riatelab.github.io/regioviz/) |
+
+<table>
+  <tr>
+    <td>[Magrit](https://github.com/riatelab/magrit)</td>
+    <td>Online thematic cartography</td>
+    <td>![](https://img.shields.io/github/stars/riatelab/magrit?logo=none)</td>
+    <td>[magrit.cnrs.fr](https://magrit.cnrs.fr)</td>
+  </tr>
+  <tr>
+    <td>[regioviz](https://github.com/riatelab/regioviz)</td>
+    <td>Statistical and visual exploration of regions</td>
+    <td>![](https://img.shields.io/github/stars/riatelab/regioviz?logo=none)</td>
+    <td>[riatelab.github.io/regioviz](https://riatelab.github.io/regioviz/)</td>
+  </tr>
+</table>
+
+
+
 
 ### R packages
 
