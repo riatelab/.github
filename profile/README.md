@@ -114,6 +114,20 @@
     <td><img src="https://img.shields.io/github/stars/riatelab/go-cart-wasm?logo=none"/></td>
     <td><a href="https://www.npmjs.com/package/go-cart-wasm"><img src="https://img.shields.io/npm/v/go-cart-wasm?color=green" /></a></td>
   </tr>
+    <tr>
+    <td><a href="https://github.com/riatelab/geoviz">geoviz</a></td>
+    <td>Thematic interactive and zoomable maps for the Web</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/geoviz?logo=none"/></td>
+    <td><a href="https://www.npmjs.com/package/geoviz"><img src="https://img.shields.io/npm/v/geoviz?color=green" /></a></td>
+  </tr>
+      <tr>
+    <td><a href="https://github.com/riatelab/geotoolbox">geoviz</a></td>
+    <td>GIS Javascript library basend on geos-wasm</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/geotoolbox?logo=none"/></td>
+    <td><a href="https://www.npmjs.com/package/geotoolbox"><img src="https://img.shields.io/npm/v/geotoolbox?color=green" /></a></td>
+  </tr>
+
+  
 </table>
 
 
