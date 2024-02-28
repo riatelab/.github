@@ -96,6 +96,12 @@
 ## JavaScript libraries
 
 <table>
+    <tr>
+    <td><a href="https://github.com/riatelab/bertin">bertin</a></td>
+    <td>Thematic cartography</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/bertin?logo=none"/></td>
+    <td><a href="https://www.npmjs.com/package/bertin"><img src="https://img.shields.io/npm/v/bertin?color=green" /></a></td>
+  </tr>
   <tr>
     <td><a href="https://github.com/riatelab/dicopal.js">dicopal.js</a></td>
     <td>Discrete color palettes (hundreds of them!)</td>
