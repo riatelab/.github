@@ -122,7 +122,7 @@
   </tr>
     <tr>
     <td><a href="https://github.com/riatelab/geoviz">geoviz</a></td>
-    <td>Thematic interactive and zoomable maps for the Web</td>
+    <td>Thematic interactive and zoomable maps for the web</td>
     <td><img src="https://img.shields.io/github/stars/riatelab/geoviz?logo=none"/></td>
     <td><a href="https://www.npmjs.com/package/geoviz"><img src="https://img.shields.io/npm/v/geoviz?color=green" /></a></td>
   </tr>
@@ -131,6 +131,12 @@
     <td>GIS library based on geos-wasm</td>
     <td><img src="https://img.shields.io/github/stars/riatelab/geotoolbox?logo=none"/></td>
     <td><a href="https://www.npmjs.com/package/geotoolbox"><img src="https://img.shields.io/npm/v/geotoolbox?color=green" /></a></td>
+  </tr>
+        <tr>
+    <td><a href="https://github.com/riatelab/geotoolbox">geoverview</a></td>
+    <td>Quick and easy GeoJSON overview</td>
+    <td><img src="https://img.shields.io/github/stars/riatelab/geoverview?logo=none"/></td>
+    <td><a href="https://www.npmjs.com/package/geoverview"><img src="https://img.shields.io/npm/v/geoverview?color=green" /></a></td>
   </tr>
 
   
