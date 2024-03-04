@@ -142,4 +142,6 @@
   
 </table>
 
+## Other resources
 
+We also make presentations and training material, which you can find on [Riatecom](https://github.com/riatecom).
