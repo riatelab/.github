@@ -79,6 +79,12 @@
     <td><a href="https://cran.r-project.org/package=fisheye"><img src="https://www.r-pkg.org/badges/version/fisheye"/></a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/riatelab/gepaf">gepaf</a></td>
+    <td>Google encoded polyline algorithm format</td>
+    <td><a href="https://github.com/riatelab/gepaf"><img src="https://img.shields.io/github/stars/riatelab/gepaf?logo=none"/></a></td>
+    <td><a href="https://cran.r-project.org/package=gepaf"><img src="https://www.r-pkg.org/badges/version/gepaf"/></a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/riatelab/mapinsetr">mapinsetr</a></td>
     <td>Create map inset</td>
     <td><a href="https://github.com/riatelab/mapinsetr"><img src="https://img.shields.io/github/stars/riatelab/mapinsetr?logo=none"/></a></td>
