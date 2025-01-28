@@ -90,11 +90,17 @@
     <td><a href="https://github.com/riatelab/mapinsetr"><img src="https://img.shields.io/github/stars/riatelab/mapinsetr?logo=none"/></a></td>
     <td><a href="https://github.com/riatelab/mapinsetr"><img src="https://www.r-pkg.org/badges/version/mapinsetr"/></a></td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://github.com/riatelab/flows">flows</a></td>
     <td>Flow selection and analysis</td>
     <td><a href="https://github.com/riatelab/flows"><img src="https://img.shields.io/github/stars/riatelab/flows?logo=none"/></a></td>
     <td><a href="https://github.com/riatelab/flows"><img src="https://www.r-pkg.org/badges/version/flows"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riatelab/distanamo">distanamo</a></td>
+    <td>Distance cartograms</td>
+    <td><a href="https://github.com/riatelab/flows"><img src="https://img.shields.io/github/stars/riatelab/distanamo?logo=none"/></a></td>
+    <td><a href="https://github.com/riatelab/flows"><img src="https://www.r-pkg.org/badges/version/distanamo"/></a></td>
   </tr>
 
 </table>
