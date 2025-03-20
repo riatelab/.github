@@ -97,10 +97,16 @@
     <td><a href="https://riatelab.r-universe.dev/distanamo"><img src="https://riatelab.r-universe.dev/distanamo/badges/version"/></a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/riatelab/maposm">maposm</a></td>
+    <td>Get map layers from OpenStreetMap</td>
+    <td><a href="https://github.com/riatelab/maposm"><img src="https://img.shields.io/github/stars/riatelab/maposm?logo=none"/></a></td>
+    <td><a href="https://riatelab.r-universe.dev/maposm"><img src="https://riatelab.r-universe.dev/maposm/badges/version"/></a></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/riatelab/mapinsetr">mapinsetr</a></td>
     <td>Create map inset</td>
     <td><a href="https://github.com/riatelab/mapinsetr"><img src="https://img.shields.io/github/stars/riatelab/mapinsetr?logo=none"/></a></td>
-    <td><a href="https://github.com/riatelab/mapinsetr"><img src="https://www.r-pkg.org/badges/version/mapinsetr"/></a></td>
+    <td><a href="https://riatelab.r-universe.dev/mapinsetr"><img src="https://riatelab.r-universe.dev/mapinsetr/badges/version"/></a></td>
   </tr>
 </table>
 
