@@ -30,6 +30,12 @@
     <td><a href="https://github.com/riatelab/osrm"><img src="https://img.shields.io/github/stars/riatelab/osrm?logo=none"/></a></td>
     <td><a href="https://cran.r-project.org/package=osrm"><img src="https://www.r-pkg.org/badges/version/osrm"/></a></td>
   </tr>
+    <tr>
+    <td><a href="https://github.com/riatelab/valh">valh</a></td>
+    <td>Interface for the OpenStreetMap-based routing service Valhalla</td>
+    <td><a href="https://github.com/riatelab/valh"><img src="https://img.shields.io/github/stars/riatelab/valh?logo=none"/></a></td>
+    <td><a href="https://cran.r-project.org/package=valh"><img src="https://www.r-pkg.org/badges/version/valh"/></a></td>
+  </tr>
   <tr>
     <td><a href="https://github.com/riatelab/maptiles">maptiles</a></td>
     <td>Download, compose and display map tiles</td>
