@@ -161,6 +161,12 @@
     <td><a href="https://github.com/riatelab/geoverview"><img src="https://img.shields.io/github/stars/riatelab/geoverview?logo=none"/></a></td>
     <td><a href="https://www.npmjs.com/package/geoverview"><img src="https://img.shields.io/npm/v/geoverview?color=green" /></a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/riatelab/geoimport">geoimport</a></td>
+    <td>Conversion from/to GeoJSON for the Web</td>
+    <td><a href="https://github.com/riatelab/geoimport"><img src="https://img.shields.io/github/stars/riatelab/geoimport?logo=none"/></a></td>
+    <td><a href="https://www.npmjs.com/package/geoimport"><img src="https://img.shields.io/npm/v/geoimport?color=green" /></a></td>
+  </tr>
 
   
 </table>
