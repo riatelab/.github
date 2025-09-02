@@ -167,7 +167,12 @@
     <td><a href="https://github.com/riatelab/geoimport"><img src="https://img.shields.io/github/stars/riatelab/geoimport?logo=none"/></a></td>
     <td><a href="https://www.npmjs.com/package/geoimport"><img src="https://img.shields.io/npm/v/geoimport?color=green" /></a></td>
   </tr>
-
+  <tr>
+    <td><a href="https://github.com/riatelab/tricolore.js">tricolore.js</a></td>
+    <td>Color scale for ternary compositions</td>
+    <td><a href="https://github.com/riatelab/tricolore.js"><img src="https://img.shields.io/github/stars/riatelab/tricolore.js?logo=none"/></a></td>
+    <td><a href="https://www.npmjs.com/package/tricolore.js"><img src="https://img.shields.io/npm/v/tricolore?color=green" /></a></td>
+  </tr>
   
 </table>
 
