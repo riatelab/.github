@@ -114,6 +114,12 @@
     <td><a href="https://github.com/riatelab/mapinsetr"><img src="https://img.shields.io/github/stars/riatelab/mapinsetr?logo=none"/></a></td>
     <td><a href="https://riatelab.r-universe.dev/mapinsetr"><img src="https://riatelab.r-universe.dev/mapinsetr/badges/version"/></a></td>
   </tr>
+    <tr>
+    <td><a href="https://github.com/riatelab/geoviz_R">geoviz</a></td>
+    <td>Webmapping</td>
+    <td><a href="https://github.com/riatelab/geoviz_R"></a></td>
+    <td></td>
+  </tr>
 </table>
 
 ## JavaScript libraries
