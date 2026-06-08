@@ -10,7 +10,7 @@
   <tr>
     <td><a href="https://github.com/riatelab/regioviz">Regioviz</a></td>
     <td>Statistical and visual exploration of regions</td>
-    <td><a href="https://github.com/riatelab/regioviz"><img src="https://img.shields.io/github/stars/riatelab/regioviz?logo=none"/></a></td>
+    <td></td>
     <td><a href="https://riatelab.github.io/regioviz/">riatelab.github.io/regioviz</a></td>
   </tr>
 </table>
