@@ -114,11 +114,18 @@
     <td><a href="https://github.com/riatelab/mapinsetr"><img src="https://img.shields.io/github/stars/riatelab/mapinsetr?logo=none"/></a></td>
     <td><a href="https://riatelab.r-universe.dev/mapinsetr"><img src="https://riatelab.r-universe.dev/mapinsetr/badges/version"/></a></td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://github.com/riatelab/geoviz_R">geoviz</a></td>
     <td>Webmapping</td>
-    <td></td>
+    <td><a href="https://github.com/riatelab/geoviz_R"><img src="https://img.shields.io/github/stars/riatelab/geoviz_R?logo=none"/></a></td>
     <td><a href="https://riatelab.r-universe.dev/geoviz"><img src="https://riatelab.r-universe.dev/mapinsetr/badges/version"/></a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/riatelab/planisphere">geoviz</a></td>
+    <td>Map projections</td>
+    <td><a href="https://github.com/riatelab/planisphere"><img src="https://img.shields.io/github/stars/riatelab/planisphere?logo=none"/></a></td>
+    <td><a href="https://riatelab.r-universe.dev/planisplere"><img src="https://riatelab.r-universe.dev/planisphere/badges/version"/></a></td>
     <td></td>
   </tr>
 </table>
