@@ -122,7 +122,7 @@
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/riatelab/planisphere">geoviz</a></td>
+    <td><a href="https://github.com/riatelab/planisphere">planisphere</a></td>
     <td>Map projections</td>
     <td><a href="https://github.com/riatelab/planisphere"><img src="https://img.shields.io/github/stars/riatelab/planisphere?logo=none"/></a></td>
     <td><a href="https://riatelab.r-universe.dev/planisplere"><img src="https://riatelab.r-universe.dev/planisphere/badges/version"/></a></td>
