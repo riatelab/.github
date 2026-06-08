@@ -10,7 +10,7 @@
   <tr>
     <td><a href="https://github.com/riatelab/regioviz">Regioviz</a></td>
     <td>Statistical and visual exploration of regions</td>
-    <td></td>
+    <td><a href="https://github.com/riatelab/regioviz"><img src="https://img.shields.io/github/stars/riatelab/regioviz?logo=none"/></a></td>
     <td><a href="https://riatelab.github.io/regioviz/">riatelab.github.io/regioviz</a></td>
   </tr>
 </table>
@@ -117,7 +117,7 @@
     <tr>
     <td><a href="https://github.com/riatelab/geoviz_R">geoviz</a></td>
     <td>Webmapping</td>
-    <td><a href="https://github.com/riatelab/geoviz_R"><img src="https://img.shields.io/github/stars/riatelab/geoviz_R?logo=none"/></a></td>
+    <td></td>
     <td><a href="https://riatelab.r-universe.dev/geoviz"><img src="https://riatelab.r-universe.dev/mapinsetr/badges/version"/></a></td>
     <td></td>
   </tr>
