@@ -115,7 +115,7 @@
     <td><a href="https://riatelab.r-universe.dev/mapinsetr"><img src="https://riatelab.r-universe.dev/mapinsetr/badges/version"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/riatelab/geovizr">geoviz</a></td>
+    <td><a href="https://github.com/riatelab/geovizr">geovizr</a></td>
     <td>Webmapping</td>
     <td><a href="https://github.com/riatelab/geovizr"><img src="https://img.shields.io/github/stars/riatelab/geovizr?logo=none"/></a></td>
     <td><a href="https://riatelab.r-universe.dev/geovizr"><img src="https://riatelab.r-universe.dev/geovizr/badges/version"/></a></td>
